@@ -17,7 +17,7 @@
 3. Create `.env.local` in the repository root:
 
    ```env
-   MONGODB_URI=mongodb+srv://u6643015_db_user:UWO5cXD1z7SSzYRK@cluster0.dcqeinw.mongodb.net/
+   MONGODB_URI=mongodb+srv://u6643015_db_user:wadfinalexam@cluster0.dcqeinw.mongodb.net/
    MONGODB_DB=cx4107_courses
    JWT_SECRET=e56099e397633aecabbf4ea376428fd9075f3d41339eb5b8a668d2b1b3a082fe
    FRONTEND_URL=http://localhost:5173
@@ -49,6 +49,6 @@ All test accounts use the password `Demo123!`.
 
 - Backend repository: https://github.com/u6643015-cpu/wad_final_backend
 - Frontend repository: https://github.com/u6643015-cpu/wad_final_frontend
-- Deployed backend: REPLACE_WITH_BACKEND_URL
-- Deployed frontend: REPLACE_WITH_FRONTEND_URL
+- Deployed backend: https://wad-final-backend-two.vercel.app
+- Deployed frontend: https://wad-final-frontend-six.vercel.app
 
